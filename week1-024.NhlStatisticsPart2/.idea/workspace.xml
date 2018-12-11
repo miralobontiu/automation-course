@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cbb1cf5-4e6f-4c98-a009-17b6993f9c21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week1-002.HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-002.HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-003.Spruce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-003.Spruce/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-004.ChangingVariables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-004.ChangingVariables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-006.Addition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-006.Addition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-007.Multiplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-007.Multiplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-008.Adder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-008.Adder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-016.EvenOrOdd/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-016.EvenOrOdd/src/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-018.GradesAndPoints/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-018.GradesAndPoints/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-019.AgeCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-019.AgeCheck/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-020.Usernames/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-020.Usernames/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-021.LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-021.LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-022.Password/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-022.Password/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-023.Temperatures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-023.Temperatures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhlStatisticsPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NhlStatisticsPart2.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NhlStatisticsPart2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-17" />
+    <option name="width" value="1079" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week1-024.NhlStatisticsPart2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1-024.NhlStatisticsPart2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week1-024.NhlStatisticsPart2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1-024.NhlStatisticsPart2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544525868389" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in week1-024.NhlStatisticsPart2">
+    <configuration name="NhlStatisticsPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NhlStatisticsPart2" />
+      <module name="week1-024.NhlStatisticsPart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in week1-024.NhlStatisticsPart2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week1-024.NhlStatisticsPart2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in week1-024.NhlStatisticsPart2" />
+        <item itemvalue="Application.NhlStatisticsPart2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbb1cf5-4e6f-4c98-a009-17b6993f9c21" name="Default Changelist" comment="" />
+      <created>1544523177882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544523177882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_week1-024_NhlStatisticsPart2 - 2018.12.11 at 12h 33m 42s.xml">
+      <configuration name="All in week1-024.NhlStatisticsPart2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_week1-024_NhlStatisticsPart2 - 2018.12.11 at 12h 50m 17s.xml">
+      <configuration name="All in week1-024.NhlStatisticsPart2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_week1-024_NhlStatisticsPart2 - 2018.12.11 at 12h 52m 44s.xml">
+      <configuration name="All in week1-024.NhlStatisticsPart2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-17" y="0" width="1079" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1952895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="TMC Test Results" />
+      <window_info anchor="bottom" id="Messages" weight="0.32932165" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3402626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="TMC Project List" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/NhlStatisticsPart2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
