@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d98c73a-bf08-485f-ad6f-1ed1ad5f3270" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../week1-002.HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-002.HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-003.Spruce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-003.Spruce/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-004.ChangingVariables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-004.ChangingVariables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-005.SecondsOfTheYear/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-006.Addition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-006.Addition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-007.Multiplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-007.Multiplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-008.Adder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-008.Adder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-016.EvenOrOdd/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-016.EvenOrOdd/src/EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-018.GradesAndPoints/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-018.GradesAndPoints/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-019.AgeCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-019.AgeCheck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-020.Usernames/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-020.Usernames/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-021.LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-021.LeapYear/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-022.Password/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-022.Password/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-023.Temperatures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-023.Temperatures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-024.NhlStatisticsPart2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfThreeNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -50,9 +27,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SumOfThreeNumbers.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-17" />
-    <option name="width" value="1079" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,21 +57,6 @@
             <path>
               <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
               <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
-              <item name="nbproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C:\Users\mirabela.lobontiu\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -102,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544527051436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544535296600" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,6 +84,29 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in week2-025.SumOfThreeNumbers">
+    <configuration name="SumOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfThreeNumbers" />
+      <module name="week2-025.SumOfThreeNumbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in week2-025.SumOfThreeNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-025.SumOfThreeNumbers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in week2-025.SumOfThreeNumbers" />
+        <item itemvalue="Application.SumOfThreeNumbers" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -130,17 +122,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-17" y="0" width="1079" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24926399" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27789935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49950933" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49950933" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50049067" side_tool="true" weight="0.32932165" />
       <window_info anchor="bottom" id="TMC Test Results" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,8 +157,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
