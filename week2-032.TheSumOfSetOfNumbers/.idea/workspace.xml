@@ -73,7 +73,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545136310697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545136502067" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in week2-032.TheSumOfSetOfNumbers">
     <configuration name="TheSumOfSetOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheSumOfSetOfNumbers" />
       <module name="week2-032.TheSumOfSetOfNumbers" />
@@ -95,8 +95,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in week2-032.TheSumOfSetOfNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-032.TheSumOfSetOfNumbers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in week2-032.TheSumOfSetOfNumbers" />
         <item itemvalue="Application.TheSumOfSetOfNumbers" />
       </list>
     </recent_temporary>
