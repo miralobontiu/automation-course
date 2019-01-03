@@ -28,7 +28,7 @@ public class Printing {
     }
 
     public static void printTriangle(int size) {
-        int i = 0;
+        int i = 1;
         while (i <= size) {
             printStars(i);
             i++;
@@ -43,7 +43,7 @@ public class Printing {
         System.out.println("\n---");
         printSquare(5);
         System.out.println("\n---");
-        printRectangle(27, 6);
+        printRectangle(17, 3);
         System.out.println("\n---");
         printTriangle(4);
         System.out.println("\n---");
